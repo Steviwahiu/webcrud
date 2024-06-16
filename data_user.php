@@ -50,7 +50,7 @@ if(isset($_POST['user'])){
 
     <div id="content">
         <table>
-            <h2><b>Data Anggota Mahasiswa</b></h2>
+            <h2>Data Mahasiswa</h2>
 
             <tr>
                 <form action="" method="post">

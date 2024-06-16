@@ -1,4 +1,9 @@
 
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
 p {
     color: rgb(255, 255, 255);
     font-size: 16px;
@@ -16,10 +21,6 @@ li {
     margin-right: 20px;
 }
 
-table {
-    border-collapse: collapse;
-
-}
 th {
     background-color: none;
 }
@@ -30,13 +31,9 @@ td {
 th, td {
     border: 1px solid rgb(0, 0, 0);
 }
-
-/* General styles */
-body {
-    margin: 0;
-    font-family: 'Arial', sans-serif;
+h2 {
+    text-align: center;
 }
-
 /* Navbar container */
 .navbar {
     background-color: #1669e5; /* Dark background color */
