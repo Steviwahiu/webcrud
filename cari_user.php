@@ -41,7 +41,7 @@ $data = mysqli_query($koneksi, $query);
 
     <div id="content">
         <table>
-            <caption><b>Data Anggota Mahasiswa</b></caption>
+            <h2><b>Data Anggota Mahasiswa</b></h2>
             <tr>
                 <form action="" method="post">
                     <td><input type="text" name="user" placeholder="Cari..."></td>
