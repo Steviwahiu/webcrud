@@ -32,7 +32,7 @@ $data = mysqli_query($koneksi, $query);
 
     <div id="sidebar">
         <ul>
-            <a href="home.html">Home</a>
+            <a href="index.html">Home</a>
             <a href="login.php">Login</a>
             <a href="logout.php" onclick="return confirm('anda yakin ingin logout ?')">Logout</a>
             <a href="data_user.php">Halaman Data</a>
